@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/gcapizzi/containers-study-path/master/icon.png" height="350" width="350">
+  <img src="https://raw.githubusercontent.com/gcapizzi/containers-study-path/master/icon.png">
   <br />
   Containers Study Path
 </h1>
@@ -34,3 +34,7 @@
   * [Open Containers Initiative](https://www.opencontainers.org/)
   * [runC](https://github.com/opencontainers/runc)
   * [containerd](https://containerd.io/)
+
+## Credits
+
+Icon: [containers](https://thenounproject.com/term/containers/1455729/) by [Nhor](https://thenounproject.com/nhor) from [the Noun Project](https://thenounproject.com/).
