@@ -16,7 +16,7 @@ A study path to get started on containers.
   - Layered Filesystems
     * [Visualizing Docker Containers and Images](http://merrigrove.blogspot.co.uk/2015/10/visualizing-docker-containers-and-images.html)
     * [Claudia Beresford & Tiago Scolari - Container FS: Adapt or Die](https://www.youtube.com/watch?v=lctMC1WNd1U)
-    * [Linux docs on OverlayFS](https://www.kernel.org/doc/Documentation/filesystems/overlayfs.txt)
+    * [Linux docs on Overlay](https://www.kernel.org/doc/Documentation/filesystems/overlayfs.txt)
   - Rootless
     * [Ed King - The Route to Rootless Containers](https://www.cloudfoundry.org/blog/route-rootless-containers/)
     * [Ed King & Julz Friedman - The Route To Rootless Containers](https://www.youtube.com/watch?v=j4GO2d3YjmE)
