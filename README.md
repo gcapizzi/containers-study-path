@@ -1,6 +1,8 @@
 # Containers Study Path
 A study path to get started on containers.
 
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/gcapizzi/containers-study-path/master/icon.png"></div>
+
   - What is a container?
     * [Julian Friedman - Build Your Own Container Using Less than 100 Lines of Go](https://www.infoq.com/articles/build-a-container-golang)
     * [Liz Rice - Containers From Scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc) ([code](https://github.com/lizrice/containers-from-scratch))
