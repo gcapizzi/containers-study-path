@@ -15,9 +15,10 @@ A study path to get started on containers.
   - Cgroups
     * [Introduction to Control Groups](https://0xax.gitbooks.io/linux-insides/content/Cgroups/linux-cgroups-1.html)
     * [Kernel docs on CGroups](https://www.kernel.org/doc/Documentation/cgroup-v1/00-INDEX)
-  - Layered Filesystems
+  - Filesystems
     * [Visualizing Docker Containers and Images](http://merrigrove.blogspot.co.uk/2015/10/visualizing-docker-containers-and-images.html)
     * [Claudia Beresford & Tiago Scolari - Container FS: Adapt or Die](https://www.youtube.com/watch?v=lctMC1WNd1U)
+    * [Jérôme Petazzoni – Deep dive into Docker storage drivers](https://www.youtube.com/watch?v=hk6wqNBLlxQ)
     * [Linux docs on Overlay](https://www.kernel.org/doc/Documentation/filesystems/overlayfs.txt)
   - Rootless
     * [Ed King - The Route to Rootless Containers](https://www.cloudfoundry.org/blog/route-rootless-containers/)
