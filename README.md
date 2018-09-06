@@ -1,7 +1,14 @@
-# Containers Study Path
-A study path to get started on containers.
 
-<div style="text-align: center"><img src="https://raw.githubusercontent.com/gcapizzi/containers-study-path/master/icon.png"></div>
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/gcapizzi/containers-study-path/master/icon.png" height="350" width="350">
+  <br />
+  Containers Study Path
+</h1>
+
+<p align="center">
+  A study path to get started on containers.
+</p>
 
   - What is a container?
     * [Julian Friedman - Build Your Own Container Using Less than 100 Lines of Go](https://www.infoq.com/articles/build-a-container-golang)
