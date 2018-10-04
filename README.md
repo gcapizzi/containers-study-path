@@ -16,7 +16,7 @@
 - Namespaces
   * [Michael Crosby - Creating containers](http://crosbymichael.com/creating-containers-part-1.html) (thre is no part 2 🙁)
   * [Ed King - Linux Namspaces](https://medium.com/@teddyking/linux-namespaces-850489d3ccf)
-  * [Namespaces in Operation](https://lwn.net/Articles/531114/)
+  * [Michael Kerrisk - Namespaces in Operation](https://lwn.net/Articles/531114/)
   * [man7 - namespaces](http://man7.org/linux/man-pages/man7/namespaces.7.html)
 - Cgroups
   * [Introduction to Control Groups](https://0xax.gitbooks.io/linux-insides/content/Cgroups/linux-cgroups-1.html)
