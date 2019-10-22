@@ -33,7 +33,7 @@
   * [Rootless Containers](https://rootlesscontaine.rs/)
 - Other related Linux concepts
   * [William Martin - Don’t Fear the Subreaper](https://medium.com/@william.la.martin/dont-fear-the-subreaper-19c8127c031e)
-- What does the landspace look like?
+- What does the landscape look like?
   * [Open Containers Initiative](https://www.opencontainers.org/)
   * [runC](https://github.com/opencontainers/runc)
   * [containerd](https://containerd.io/)
