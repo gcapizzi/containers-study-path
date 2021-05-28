@@ -15,7 +15,7 @@
   * [Jérôme Petazzoni - Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8)
   * [Julia Evans - What even is a container: namespaces and cgroups](https://jvns.ca/blog/2016/10/10/what-even-is-a-container/)
 - Namespaces
-  * [Ed King - Linux Namspaces](https://medium.com/@teddyking/linux-namespaces-850489d3ccf)
+  * [Ed King - Linux Namespaces](https://medium.com/@teddyking/linux-namespaces-850489d3ccf)
   * [Michael Kerrisk - Namespaces in Operation](https://lwn.net/Articles/531114/)
   * [man7 - namespaces](http://man7.org/linux/man-pages/man7/namespaces.7.html)
 - Cgroups
