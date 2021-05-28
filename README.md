@@ -13,10 +13,8 @@
   * [Liz Rice - Containers From Scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc) ([code](https://github.com/lizrice/containers-from-scratch))
   * [Jesse Frazelle - Setting the Record Straight: containers vs. Zones vs. Jails vs. VMs](https://blog.jessfraz.com/post/containers-zones-jails-vms/)
   * [Jérôme Petazzoni - Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8)
-  * [Lizzie Dixon - Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
   * [Julia Evans - What even is a container: namespaces and cgroups](https://jvns.ca/blog/2016/10/10/what-even-is-a-container/)
 - Namespaces
-  * [Michael Crosby - Creating containers](http://crosbymichael.com/creating-containers-part-1.html) (thre is no part 2 🙁)
   * [Ed King - Linux Namspaces](https://medium.com/@teddyking/linux-namespaces-850489d3ccf)
   * [Michael Kerrisk - Namespaces in Operation](https://lwn.net/Articles/531114/)
   * [man7 - namespaces](http://man7.org/linux/man-pages/man7/namespaces.7.html)
